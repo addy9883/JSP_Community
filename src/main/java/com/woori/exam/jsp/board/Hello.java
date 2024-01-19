@@ -1,2 +1,4 @@
-package com.woori.exam.jsp.board;public class Hello {
+package com.woori.exam.jsp.board;
+
+public class Hello {
 }
