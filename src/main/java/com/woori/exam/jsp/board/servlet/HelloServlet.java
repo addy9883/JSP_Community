@@ -1,4 +1,4 @@
-package com.woori.exam.jsp.board;
+package com.woori.exam.jsp.board.servlet;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

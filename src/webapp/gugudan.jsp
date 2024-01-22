@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html;" pageEncoding="UTF-8" %>
-<%@ page import="com.woori.exam.jsp.board.Rq" %>
+<%@ page import="com.woori.exam.jsp.board.servlet.Rq" %>
 <title>구구단</title>
 <%
     Rq rq = new Rq(request,response);

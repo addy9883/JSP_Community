@@ -1,4 +1,4 @@
-package com.woori.exam.jsp.board;
+package com.woori.exam.jsp.board.servlet;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
